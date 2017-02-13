@@ -1,0 +1,25 @@
+{
+  "name": "manideeppabba",
+  "version": "1.0.0",
+  "description": "Angular 2 application",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manideeppabba1991/angular-practice-club.git"
+  },
+  "keywords": [
+    "angular2",
+    "practice"
+  ],
+  "author": "manideep pabba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manideeppabba1991/angular-practice-club/issues"
+  },
+  "homepage": "https://github.com/manideeppabba1991/angular-practice-club#readme"
+}
